@@ -31,8 +31,8 @@ filetype plugin on
 filetype indent on
 
 syntax enable
-
-colorscheme heraldish
+set background=dark
+colorscheme solarized
 
 " Save all files and run make
 map <F5> :wall<CR>:make<CR>
